@@ -2,6 +2,7 @@
 Python projects and practice codes
 
 
+
 ## 1️⃣ Msingi wa OOP
 
 OOP inategemea **objects** na **classes**:
